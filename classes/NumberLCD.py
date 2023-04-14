@@ -72,5 +72,4 @@ class NumberLCD():
 
     def returnLines(self):
         return self.lineOne, self.lineTwo, self.lineTree, self.lineFour, self.lineFive
-        
-        
+          
